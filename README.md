@@ -1,7 +1,7 @@
 # Pro Web & Mobile App Develoepr 🏆🏆🏆
 
 <img align="left" width="60%" min-width="300" src="https://github-readme-stats.vercel.app/api?username=baymax-d&&show_icons=true&theme=blinks" />
-<img algin="right" width="320" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=baymax-d&theme=blinks" />
+<img algin="right" width="312" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=baymax-d&theme=blinks" />
 
 </br>
 
