@@ -1,7 +1,7 @@
 # Pro Web & Mobile App Develoepr 🏆🏆🏆
 
 <img align="left" width="60%" min-width="300" src="https://github-readme-stats.vercel.app/api?username=baymax-d&&show_icons=true&theme=blinks" />
-<img algin="right" width="312" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=baymax-d&theme=blinks" />
+<img algin="right" width="316" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=baymax-d&theme=blinks" />
 
 </br>
 
@@ -12,8 +12,6 @@ IT company since 2015, but I retired from that company from 2021. For standing o
 So I give my whole heart and soul for thems.
 
 <img align="right" height="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-d&show_icons=true&theme=blinks" />
-
-</br>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Skill Set*
 
