@@ -11,7 +11,7 @@ I'm a developer who implements customers' ideas. If you have idea, contact me an
 IT company since 2015, but I retired from that company from 2021. For standing out 👍my Skills on the world and getting review. I want to directly working with client and show my talent skills. I 💖love my all creations even if it's small and inconspicuous.
 So I give my whole heart and soul for thems.
 
-<img align="right" height="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-d&show_icons=true&theme=blinks" />
+<img align="left" height="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-d&show_icons=true&theme=blinks" />
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Skill Set*
 
