@@ -1,9 +1,9 @@
 # Pro Web & Mobile App Develoepr 🏆🏆🏆
 
-<br>
-<img algin="left" width="62%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&include_all_commits=true&count_private=true" />
-<img algin="right" width="316" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=blinks" />
-
+<p align=center>
+<img algin="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&include_all_commits=true&count_private=true" />
+<img algin="right" width="50%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=blinks" />
+</p>
 </br>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*About me*
