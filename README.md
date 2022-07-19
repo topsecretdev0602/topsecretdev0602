@@ -1,6 +1,6 @@
 # Pro Web & Mobile App Develoepr <img src="https://komarev.com/ghpvc/?username=prodev-web&color=blue" alt=""/> 🏆🏆🏆
 
-<img align="left" width="60%" min-width="300" src="https://github-readme-stats.vercel.app/api?username=prodev-web&&show_icons=true&theme=blinks" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
 <img algin="right" width="316" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=blinks" />
 
 </br>
