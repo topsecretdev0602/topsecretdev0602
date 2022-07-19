@@ -15,7 +15,7 @@ So I give my whole heart and soul for thems.
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Skill Set*
 
-<p algin="right" width="320px">
+<p algin="right">
     <img height src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="50" alt="html" style="max-width: 100%;">
     <img height="50" src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/css.png" width="50" alt="css" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917505-6f3349c8-5c3d-4ac3-9d75-ca46782038c7.svg" width="50" alt="flutter" style="max-width: 100%;">
