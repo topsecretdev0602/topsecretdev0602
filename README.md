@@ -8,8 +8,9 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*About me*
 
-I'm a developer who implements customers' ideas. If you have idea, contact me anytime, then you can get the better result than you imagined 😮. As a full-stack developer, I started programming when I was 10 at code school and then worked on
-IT company since 2015, but I retired from that company from 2021. For standing out 👍my Skills on the world and getting review. I want to directly working with client and show my talent skills. I 💖love my all creations even if it's small and inconspicuous.
+I am Aida, a professional web developer. As a seasoned web developer, I graduated from TMC college with a Bachelor of degree with a major in Computer science. Again I have worked as Web developer for 5+ years including web design, web frontend, web backend  development and database development.
+Your Success is My Business with pleasure!
+I 💖love my all creations even if it's small and inconspicuous.
 So I give my whole heart and soul for thems.
 
 <img align="left" height="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&theme=blinks" />
