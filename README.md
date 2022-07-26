@@ -8,7 +8,7 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*About me*
 
-I am Aida, a professional web developer. As a seasoned web developer, I graduated from TMC college with a Bachelor of degree with a major in Computer science. Again I have worked as Web developer for 5+ years including web design, web frontend, web backend  development and database development.
+As a seasoned web developer, I graduated from TMC college with a Bachelor of degree with a major in Computer science. Again I have worked as Web developer for 5+ years including web design, web frontend, web backend  development and database development.
 Your Success is My Business with pleasure!
 I 💖love my all creations even if it's small and inconspicuous.
 So I give my whole heart and soul for thems.
