@@ -8,10 +8,8 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*About me*
 
-As a seasoned web developer, I graduated from TMC college with a Bachelor of degree with a major in Computer science. Again I have worked as Web developer for 5+ years including web design, web frontend, web backend  development and database development.
-Your Success is My Business with pleasure!
-I 💖love my all creations even if it's small and inconspicuous.
-So I give my whole heart and soul for thems.
+I'm a professional web developer named Elina. As a full-stack developer, I started programming when I was 10 at code school and have already done many projects and built many websites. I respect all reviews and criticisms about my work and I spend the most effort on providing the best result. I 💖love all my creations even if they're small and inconspicuous. So I give my whole heart and soul to them.
+Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'm always ready for you. So contact me if you think I am compatible enough for your project.
 
 <img align="left" height="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&theme=blinks" />
 
