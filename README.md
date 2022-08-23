@@ -45,6 +45,7 @@ Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045207-650becf8-3df2-4f75-9136-5b226b5eaed8.png" width="50" alt="kotlin" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045219-49596b58-9a53-4688-83eb-8673aed69b7c.png" width="50" alt="ionic" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186046482-aa19c836-d723-4331-b797-bb9874d3a15f.png" width="50" alt="ios" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186047497-93bda600-d669-48e6-afc8-600cab80b2a8.png" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917501-936a1fe5-fae1-4fd7-95e1-b811bfa8cc45.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917486-146d3393-a4a6-470f-be1e-0791516d422d.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917516-515e9444-4f7b-4268-8965-9d1b13eeb273.svg" width="50" alt="flutter" style="max-width: 100%;">
