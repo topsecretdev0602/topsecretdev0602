@@ -51,6 +51,7 @@ Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917547-8d735b7d-54ed-4b79-8f4f-b97ff9d55630.svg" width="50" alt="git" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917553-eccece2f-4ad0-4cb1-aa24-01fa956999ec.svg" width="50" alt="git" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" width="50" alt="firebase" style="max-width: 100%;">
+    
     <img height="50" src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/docker.png" width="50" alt="docker" style="max-width: 100%;">
     <img height="50" src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/git.gif" width="50" alt="git" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917497-0163fb95-e238-47f3-b9bb-9b66b70da0bd.svg" width="50" alt="flutter" style="max-width: 100%;">
