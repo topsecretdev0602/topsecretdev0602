@@ -42,8 +42,8 @@ Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917541-b49543ba-a527-4ea7-8b4f-7e1618f560e2.svg" width="50" alt="meteor" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186043457-50b71b31-1d3d-4558-8036-a7aa9ce486c8.png" width="50" alt="kendo" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186043571-7390d603-7b42-46bb-9b4f-8e825504418c.png" width="50" alt="android" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186043468-8e411cf2-f94a-4699-a2a6-448620c25ffd.svg" width="50" alt="kotlin" style="max-width: 100%;">
-    <img height="50" src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/apple.gif" width="50" alt="iOS" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045207-650becf8-3df2-4f75-9136-5b226b5eaed8.png" width="50" alt="kotlin" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045219-49596b58-9a53-4688-83eb-8673aed69b7c.png" width="50" alt="ionic" style="max-width: 100%;">
     <img height="50" src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/flutter.gif" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917501-936a1fe5-fae1-4fd7-95e1-b811bfa8cc45.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917486-146d3393-a4a6-470f-be1e-0791516d422d.svg" width="50" alt="flutter" style="max-width: 100%;">
@@ -51,14 +51,13 @@ Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917547-8d735b7d-54ed-4b79-8f4f-b97ff9d55630.svg" width="50" alt="git" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917553-eccece2f-4ad0-4cb1-aa24-01fa956999ec.svg" width="50" alt="git" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" width="50" alt="firebase" style="max-width: 100%;">
-    <img height="50" src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/docker.png" width="50" alt="docker" style="max-width: 100%;">
-    <img height="50" src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/git.gif" width="50" alt="git" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045243-ceb3052a-8fb2-44ad-9a8a-ce445a21235f.png" width="50" alt="docker" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045949-1fb8064c-414e-4cf2-a3ca-c924a2e78cbc.png" width="50" alt="git" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917497-0163fb95-e238-47f3-b9bb-9b66b70da0bd.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917456-dc0e14b7-8397-4d92-b671-cd0ca44fba80.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917469-dd9db3c6-19e8-4fe9-8f85-7b16c1d64fad.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917513-e33ac99a-a28f-4539-9063-1b86bd197517.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/svg.gif" width="50" alt="svg" style="max-width: 100%;">
 </p>
 
 </br></br>
