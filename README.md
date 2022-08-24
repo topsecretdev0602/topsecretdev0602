@@ -2,7 +2,7 @@
 
 <p align=left>
 <img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,12B422,2D0131&include_all_commits=true&count_private=true" />
-<img algin="right" width="48%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,12B422,2D0131&include_all_commits=true&count_private=true" />
+<img algin="right" width="48%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=prussian" />
 </p>
 </br>
 
