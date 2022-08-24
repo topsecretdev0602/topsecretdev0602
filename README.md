@@ -1,7 +1,7 @@
 # Senior Web & Mobile App Develoepr 🏆🏆🏆
 
 <p align=left>
-<img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" />
+<img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=30,e96443,904e95&include_all_commits=true&count_private=true" />
 <img algin="right" width="48%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=algolia" />
 </p>
 </br>
