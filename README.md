@@ -2,7 +2,7 @@
 I'm a professional web developer.
 As a full-stack developer, I started programming when I was 10 at code school and have already done many projects and built many websites. I respect all reviews and criticisms about my work and I spend the most effort on providing the best result. I 💖love all my creations even if they're small and inconspicuous. So I give my whole heart and soul to them.
 Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'm always ready for you. So contact me if you think I am compatible enough for your project.
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=8"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=7"></p>
 
 <p align=left>
 <img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
