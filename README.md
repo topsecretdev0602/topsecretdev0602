@@ -17,9 +17,8 @@
 
 - 📧 devking1205@gmail.com
 
-[Telegram](https://t.me/ProDev1205)
-
-[Skype](https://join.skype.com/invite/xAHPnMKaZkkk)
+<h3>[Telegram](https://t.me/ProDev1205)</h3>
+<h3>[Skype](https://join.skype.com/invite/xAHPnMKaZkkk)</h3>
 
 <p align=left>
 <img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
