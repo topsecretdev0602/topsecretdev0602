@@ -15,13 +15,12 @@
 
 - 🔥 Give my whole heart and soul to them
 
-- 📧 [Telegram](https://t.me/ProDev1205) : [Skype](https://join.skype.com/invite/xAHPnMKaZkkk) : devking1205@gmail.com
-
 <p align=left>
 <img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
 <img algin="right" width="48%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=algolia" />
 </p>
-</br>
+
+### [Telegram](https://t.me/ProDev1205) : [Skype](https://join.skype.com/invite/xAHPnMKaZkkk) : devking1205@gmail.com
 
 <img align="left" height="360px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
 
