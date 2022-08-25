@@ -2,7 +2,7 @@
 I'm a professional web developer.
 As a full-stack developer, I started programming when I was 10 at code school and have already done many projects and built many websites. I respect all reviews and criticisms about my work and I spend the most effort on providing the best result. I 💖love all my creations even if they're small and inconspicuous. So I give my whole heart and soul to them.
 Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'm always ready for you. So contact me if you think I am compatible enough for your project.
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=7"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=outrun&column=7"></p>
 
 <p align=left>
 <img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
@@ -16,9 +16,8 @@ Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'
 
 <p algin="right" width="320px">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="50" alt="html" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186025666-9020b75b-c106-4595-808a-7d2c1e985d29.svg" width="50" alt="css" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917505-6f3349c8-5c3d-4ac3-9d75-ca46782038c7.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917478-d0e00101-bfb3-4f61-99a9-4a3ffc059eed.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186607307-19248a74-3ec4-4bfd-b368-d44a27b6606f.svg" width="50" alt="css" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186607780-2ba1472e-07e5-4a98-9108-968ca3550229.svg" width="50" alt="bootstrap" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025766-5e1b4a99-194c-44c0-a345-791cc0910038.svg" width="50" alt="javascript" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917536-56a29dea-f9f0-449c-a3aa-19962ff21e95.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025841-0c104922-84d3-44ef-9dd4-328e62160068.svg" width="50" alt="react" style="max-width: 100%;">
@@ -38,7 +37,6 @@ Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027054-8096830d-efad-4e8d-978b-2136a75a50c7.svg" width="50" alt="django" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027080-6bea84b1-e7fb-4fa4-9602-a77043e7f797.svg" width="50" alt="flask" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917541-b49543ba-a527-4ea7-8b4f-7e1618f560e2.svg" width="50" alt="meteor" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186043457-50b71b31-1d3d-4558-8036-a7aa9ce486c8.png" width="50" alt="kendo" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186043571-7390d603-7b42-46bb-9b4f-8e825504418c.png" width="50" alt="android" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045207-650becf8-3df2-4f75-9136-5b226b5eaed8.png" width="50" alt="kotlin" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045219-49596b58-9a53-4688-83eb-8673aed69b7c.png" width="50" alt="ionic" style="max-width: 100%;">
@@ -47,15 +45,17 @@ Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917501-936a1fe5-fae1-4fd7-95e1-b811bfa8cc45.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917486-146d3393-a4a6-470f-be1e-0791516d422d.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917516-515e9444-4f7b-4268-8965-9d1b13eeb273.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917547-8d735b7d-54ed-4b79-8f4f-b97ff9d55630.svg" width="50" alt="git" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917553-eccece2f-4ad0-4cb1-aa24-01fa956999ec.svg" width="50" alt="git" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186611812-c849fb14-df32-4419-9d9b-e455494e6062.svg" width="50" alt="mongo" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917553-eccece2f-4ad0-4cb1-aa24-01fa956999ec.svg" width="50" alt="mysql" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" width="50" alt="firebase" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045243-ceb3052a-8fb2-44ad-9a8a-ce445a21235f.png" width="50" alt="docker" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045949-1fb8064c-414e-4cf2-a3ca-c924a2e78cbc.png" width="50" alt="git" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917497-0163fb95-e238-47f3-b9bb-9b66b70da0bd.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186612155-d7d06a1d-ddc9-4049-81cf-50ebad958c7b.svg" width="50" alt="gitlab" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186612372-ac9f7cfd-79c2-41b4-8a03-3541ae005aa0.svg" width="50" alt="bitbuket" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917456-dc0e14b7-8397-4d92-b671-cd0ca44fba80.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917469-dd9db3c6-19e8-4fe9-8f85-7b16c1d64fad.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917513-e33ac99a-a28f-4539-9063-1b86bd197517.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
 </p>
 
