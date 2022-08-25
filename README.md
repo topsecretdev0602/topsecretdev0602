@@ -1,15 +1,15 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=36"></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
 I'm a professional web developer.
 As a full-stack developer, I started programming when I was 10 at code school and have already done many projects and built many websites. I respect all reviews and criticisms about my work and I spend the most effort on providing the best result. I 💖love all my creations even if they're small and inconspicuous. So I give my whole heart and soul to them.
 Also, I can do enough work on platforms like Git, Jira, Slack and, bitbucket. I'm always ready for you. So contact me if you think I am compatible enough for your project.
 
 <p align=left>
-<img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,12B422,2D0131" />
-<img algin="right" width="48%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=prussian" />
+<img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
+<img algin="right" width="48%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=algolia" />
 </p>
 </br>
 
-<img align="left" height="360px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,3D2F90,DB8535" />
+<img align="left" height="360px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Skill Set*
 
