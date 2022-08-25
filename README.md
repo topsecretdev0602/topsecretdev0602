@@ -2,13 +2,21 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=7"></p>
 
 <h2> Full-stack Web and Mobile app developer </h2>
+
 - 🌱 Started programming at Coody School at the age of 10
+
 - 🤗 Completed many projects and built many websites and apps
+
 - 🙏🏼 Respect all reviews and criticisms of my work
+
 - ✔ Dedicated to providing the best results
+
 - 💖 Love all my creations, even if they are small and inconspicuous
+
 - 🔥 Give my whole heart and soul to them
+
 - 📧 devking1205@gmail.com
+
 [Telegram](https://t.me/ProDev1205)
 [Skype](https://join.skype.com/invite/xAHPnMKaZkkk)
 
