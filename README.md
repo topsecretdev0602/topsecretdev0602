@@ -16,8 +16,8 @@
 - 🔥 Give my whole heart and soul to them
 
 <p align=left>
-<img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
-<img algin="right" width="48%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=algolia" />
+<img algin="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
+<img algin="right" width="49%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=algolia" />
 </p>
 
 ### *Contact Me --> [Telegram](https://t.me/ProDev1205) || [Skype](https://join.skype.com/invite/xAHPnMKaZkkk) || true.feeling0105@gmail.com*
