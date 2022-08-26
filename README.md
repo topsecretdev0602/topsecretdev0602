@@ -5,11 +5,11 @@
 
 - 🌱 Started programming at Coody School at the age of 10
 
--  <img height="28" width="28" src="https://user-images.githubusercontent.com/86986628/186820593-ae1adcaa-4ba2-4fe6-b2e0-3c07c55ddb57.gif"> Completed many projects and built many websites and apps
+-  <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186820593-ae1adcaa-4ba2-4fe6-b2e0-3c07c55ddb57.gif"> Completed many projects and built many websites and apps
 
-- <img height="28" width="28" src="https://user-images.githubusercontent.com/86986628/186820634-5c480360-f46e-4482-8b36-202299657e19.gif"> Respect all reviews and criticisms of my work
+- <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186820634-5c480360-f46e-4482-8b36-202299657e19.gif"> Respect all reviews and criticisms of my work
 
-- <img height="28" width="28" src="https://user-images.githubusercontent.com/86986628/186820690-387dcae2-b775-4f1a-aca8-3f3462dd6ece.gif"> Dedicated to providing the best results
+- <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186821244-72b4cb96-5336-42cf-b71a-0e3d17b6b7bc.gif"> Hight quality & Best results & High speed
 
 - 💖 Love all my creations, even if they are small and inconspicuous
 
