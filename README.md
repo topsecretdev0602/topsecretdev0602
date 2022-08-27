@@ -2,8 +2,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=7"></p>
 
 ### *Full-stack Web and Mobile app developer*
-<p algin="left" width="450px">
-    
+
 - 🌱 Started programming at Coody School at the age of 10
 
 -  <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186820593-ae1adcaa-4ba2-4fe6-b2e0-3c07c55ddb57.gif"> Completed many projects and built many websites and apps
@@ -15,12 +14,6 @@
 - 💖 Love all my creations, even if they are small and inconspicuous
 
 - 🔥 Give my whole heart and soul to them
-    
-</p>
-
-<p  align="right" width="300px"><img height="240px"  src="https://user-images.githubusercontent.com/86986628/187018567-4954f9c3-bd7d-4d67-9e33-0119391b6d07.gif" /></p>
-
-#####
 
 <p align=left>
 <img algin="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
