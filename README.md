@@ -1,6 +1,8 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=7"></p>
 
+<img align="left" height="260px" width="300px" src="https://user-images.githubusercontent.com/86986628/187018567-4954f9c3-bd7d-4d67-9e33-0119391b6d07.gif" />
+
 ### *Full-stack Web and Mobile app developer*
 
 - 🌱 Started programming at Coody School at the age of 10
