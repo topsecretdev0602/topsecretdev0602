@@ -15,7 +15,7 @@
 
 - 🔥 Give my whole heart and soul to them
 
-<img align="right" height="240px" width="300px" src="https://user-images.githubusercontent.com/86986628/187018567-4954f9c3-bd7d-4d67-9e33-0119391b6d07.gif" />
+[!<img align="right" height="240px" width="300px" src="https://user-images.githubusercontent.com/86986628/187018567-4954f9c3-bd7d-4d67-9e33-0119391b6d07.gif" />]
 
 <p align=left>
 <img algin="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
