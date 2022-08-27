@@ -17,7 +17,8 @@
 - 🔥 Give my whole heart and soul to them
     
 </p>
-<p  align="right"><img height="240px" width="300px" src="https://user-images.githubusercontent.com/86986628/187018567-4954f9c3-bd7d-4d67-9e33-0119391b6d07.gif" /></p>
+
+<p  align="right" width="300px"><img height="240px"  src="https://user-images.githubusercontent.com/86986628/187018567-4954f9c3-bd7d-4d67-9e33-0119391b6d07.gif" /></p>
 
 #####
 
