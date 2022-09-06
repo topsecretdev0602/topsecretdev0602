@@ -16,13 +16,11 @@
 - 🔥 Give my whole heart and soul to them
 
 <p align=left>
-<img algin="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
-<img algin="right" width="49%" min-width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prodev-web&theme=algolia" />
+<img algin="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,050F2C" />
+<img align="right" height="360px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,DD4814" />
 </p>
 
 ### *Contact Me --> [Telegram](https://t.me/ProDev1205) || [Skype](https://join.skype.com/invite/xAHPnMKaZkkk) || devking1205@gmail.com*
-
-<img align="left" height="360px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,DD4814" />
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Skill Set*
 
