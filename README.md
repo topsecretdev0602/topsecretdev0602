@@ -17,7 +17,7 @@
 
 <p align=left>
 <img algin="left" width="58%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,DD4814,7432FF" />
-<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,DD4814" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,DD4814" />
 </p>
 
 ### *Contact Me --> [Telegram](https://t.me/ProDev1205) || [Skype](https://join.skype.com/invite/xAHPnMKaZkkk) || devking1205@gmail.com*
