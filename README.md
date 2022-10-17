@@ -22,7 +22,7 @@
 
 ### *Contact Me --> [Telegram](https://t.me/ProDev1205) || [Skype](https://join.skype.com/invite/xAHPnMKaZkkk) || devking1205@gmail.com*
 
-<img align="right" height="64" src="https://github-widgetbox.vercel.app/api/profile?username=prodev-web&data=followers,repositories,stars,commits">
+<img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=prodev-web&data=followers,repositories,stars,commits">
 
 ## *Skill Set*
 
