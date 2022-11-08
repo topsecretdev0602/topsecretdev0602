@@ -1,26 +1,4 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=7"></p>
-
-### *Full-stack Web and Mobile app developer & designer*
-
- 🌱 Started programming at Coody School at the age of 10
-
-  <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186820593-ae1adcaa-4ba2-4fe6-b2e0-3c07c55ddb57.gif"> Completed many projects and built many websites and apps
-
- <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186820634-5c480360-f46e-4482-8b36-202299657e19.gif"> Respect all reviews and criticisms of my work
-
- <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186821244-72b4cb96-5336-42cf-b71a-0e3d17b6b7bc.gif"> Hight quality & Best results & High speed
-
- 💖 Love all my creations, even if they are small and inconspicuous
-
- 🔥 Give my whole heart and soul to them
-
-<p align=left>
-<img algin="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&layout=compact&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
-</p>
-
-### *Contact Me --> [Telegram](https://t.me/ProDev1205) || [Skype](https://join.skype.com/invite/xAHPnMKaZkkk) || devking1205@gmail.com*
 
 <img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=prodev-web&data=followers,repositories,stars,commits">
 
