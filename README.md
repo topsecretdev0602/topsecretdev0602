@@ -48,6 +48,8 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
 </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=7"></p>![image](https://user-images.githubusercontent.com/86986628/204180993-a6247d37-dd5e-479d-b5e4-9facb8f5e802.png)
-
+<p align=left>
+<img algin="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&layout=compact&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+</p>
 
