@@ -1,6 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
 
-<img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=prodev-web&data=followers,repositories,stars,commits">
+<img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=superstar1205&data=followers,repositories,stars,commits">
 
 ## *Skill Set*
 
@@ -49,7 +49,7 @@
 </p>
 
 <p align=left>
-<img algin="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&layout=compact&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+<img algin="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=superstar1205&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstar1205&layout=compact&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </p>
 
