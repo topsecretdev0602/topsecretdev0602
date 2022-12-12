@@ -54,9 +54,7 @@
 </p>
 
 ## *Contact me anytime*
-##https://join.skype.com/invite/xAHPnMKaZkkk
-##devking1205@gmail.com
-##https://discord.gg/BwSDM6cApB
+
 <a href="https://discord.gg/ECVpNJFU"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
 <a href="https://t.me/topdevper"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
 <a href="https://join.skype.com/invite/we6kvoczprTi"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
