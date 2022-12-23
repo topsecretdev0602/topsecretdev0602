@@ -49,8 +49,8 @@
 </p>
 
 <p align=left>
-<img algin="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=superstar1205&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstar1205&layout=compact&langs_count=9&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+<img algin="left" width="54%" height="500" src="https://github-readme-stats.vercel.app/api?username=superstar1205&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
+<img width="45%" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstar1205&layout=compact&langs_count=19&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </p>
 
 ## *Contact me anytime*
