@@ -56,6 +56,6 @@
 ## *Contact me anytime*
 
 <a href="https://discord.gg/ECVpNJFU"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
-<a href="https://t.me/topdevper"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
-<a href="https://join.skype.com/invite/we6kvoczprTi"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
-<a href="mailto:smartdev0817@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
+<a href="https://t.me/superstar1205"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
+<a href="https://join.skype.com/invite/yLcFq5ao5Bvo"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
+<a href="mailto:dev.star1205@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
