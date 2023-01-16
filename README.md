@@ -55,9 +55,9 @@
 
 ## Financial Support
 
-PayPal -> Payoneer
-PayPal -> Crypto
-Payoneer -> Crypto
+<h3> PayPal -> Payoneer </h3>
+<h3> PayPal -> Crypto </h3>
+<h3> Payoneer -> Crypto </h3>
 
 ## *Contact me anytime*
 
