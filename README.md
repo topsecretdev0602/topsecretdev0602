@@ -53,6 +53,12 @@
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstar1205&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </p>
 
+## Financial Support
+
+PayPal -> Payoneer
+PayPal -> Crypto
+Payoneer -> Crypto
+
 ## *Contact me anytime*
 
 <a href="https://discord.gg/ECVpNJFU"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
